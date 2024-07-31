@@ -1,0 +1,10 @@
+-Create Environment
+ python -m venv envfood
+-Activate virtual environment
+ source envfood/Scripts/activate
+-To deactivate virtual environment
+ deactivate
+
+pip install Django
+
+django-admin startproject foodOnline .
